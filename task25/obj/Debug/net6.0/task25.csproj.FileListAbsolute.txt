@@ -1,0 +1,15 @@
+/Users/imac/Desktop/homework4.1/task25/bin/Debug/net6.0/task25
+/Users/imac/Desktop/homework4.1/task25/bin/Debug/net6.0/task25.deps.json
+/Users/imac/Desktop/homework4.1/task25/bin/Debug/net6.0/task25.runtimeconfig.json
+/Users/imac/Desktop/homework4.1/task25/bin/Debug/net6.0/task25.dll
+/Users/imac/Desktop/homework4.1/task25/bin/Debug/net6.0/task25.pdb
+/Users/imac/Desktop/homework4.1/task25/obj/Debug/net6.0/task25.csproj.AssemblyReference.cache
+/Users/imac/Desktop/homework4.1/task25/obj/Debug/net6.0/task25.GeneratedMSBuildEditorConfig.editorconfig
+/Users/imac/Desktop/homework4.1/task25/obj/Debug/net6.0/task25.AssemblyInfoInputs.cache
+/Users/imac/Desktop/homework4.1/task25/obj/Debug/net6.0/task25.AssemblyInfo.cs
+/Users/imac/Desktop/homework4.1/task25/obj/Debug/net6.0/task25.csproj.CoreCompileInputs.cache
+/Users/imac/Desktop/homework4.1/task25/obj/Debug/net6.0/task25.dll
+/Users/imac/Desktop/homework4.1/task25/obj/Debug/net6.0/refint/task25.dll
+/Users/imac/Desktop/homework4.1/task25/obj/Debug/net6.0/task25.pdb
+/Users/imac/Desktop/homework4.1/task25/obj/Debug/net6.0/task25.genruntimeconfig.cache
+/Users/imac/Desktop/homework4.1/task25/obj/Debug/net6.0/ref/task25.dll
